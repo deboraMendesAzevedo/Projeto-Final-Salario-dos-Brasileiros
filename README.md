@@ -19,7 +19,7 @@ Obrigatoriamente deverá conter as tecnologias Google Cloud Platform(Cloud Stora
 * Cada grupo terá 60 minutos para se apresentar.
 * A ordem da apresentação será comunicada pelos professores próximo à data de apresentação.
 
-##Principais Habilidades a serem avaliadas
+### Principais Habilidades a serem avaliadas
 
 * Oralidade e comunicação em público.
 * Capacidade de argumentação
