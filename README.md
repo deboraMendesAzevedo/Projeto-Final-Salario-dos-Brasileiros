@@ -52,3 +52,9 @@ Obrigatoriamente deverá conter as tecnologias Google Cloud Platform(Cloud Stora
 #### Diagrama da arquitetura do pipeline de dados (ELT)
 
 ![1639062920753](https://user-images.githubusercontent.com/86240362/152432545-58cc0744-7172-416b-936d-5f72d7404821.jpg)
+
+#### Dashboards
+![image](https://user-images.githubusercontent.com/97263612/152444728-b04b7f94-6ce0-4239-a3f5-afa785555eb9.png)
+#### Acesso ao Dashboard
+https://datastudio.google.com/reporting/a1848536-d356-4c2b-b712-5d6777962fcb/page/p_wewachuqpc?authuser=1
+
