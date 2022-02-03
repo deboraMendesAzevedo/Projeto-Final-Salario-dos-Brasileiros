@@ -49,4 +49,6 @@ Obrigatoriamente deverá conter as tecnologias Google Cloud Platform(Cloud Stora
 * Por meio de uma PIPELINE fazer o carregamento dos dados normalizados diretamente para um DW ou DataLake ou ambos
 * Montar um relatório completo com os insights que justificam todo o processo de ETL utilizado
 
+#### Diagrama da arquitetura do pipeline de dados (ELT)
+
 ![1639062920753](https://user-images.githubusercontent.com/86240362/152432545-58cc0744-7172-416b-936d-5f72d7404821.jpg)
